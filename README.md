@@ -1,3 +1,15 @@
-# American British Translator
+ American British Translator
+A web application that tranaslates British English to American English and vice versa. 
 
-This is the boilerplate for the American British Translator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator
+## Features
+
+* Text input
+* Enter text in the text input, select either British or American English and click translate to translate text.
+
+## Images
+
+![home](https://github.com/PanasheChimhina/American-British-Translator/blob/main/images/home.png?raw=true)
+![error](https://github.com/PanasheChimhina/American-British-Translator/blob/main/images/noText.png?raw=true)
+
+
+
