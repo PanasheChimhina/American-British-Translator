@@ -8,8 +8,8 @@ A web application that tranaslates British English to American English and vice 
 
 ## Images
 
-![home](https://github.com/PanasheChimhina/American-British-Translator/blob/main/images/home.png?raw=true)
-![error](https://github.com/PanasheChimhina/American-British-Translator/blob/main/images/noText.png?raw=true)
+![home](https://github.com/PanasheChimhina/American-British-Translator/blob/main/Images/home.png?raw=true)
+![error](https://github.com/PanasheChimhina/American-British-Translator/blob/main/Images/noText.png?raw=true)
 
 
 
